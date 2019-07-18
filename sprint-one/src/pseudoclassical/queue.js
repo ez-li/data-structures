@@ -27,3 +27,5 @@ Queue.prototype.size = function() {
   }
   return length;
 };
+
+var queue = new Queue();
